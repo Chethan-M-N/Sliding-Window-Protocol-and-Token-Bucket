@@ -1,1 +1,1 @@
-# Sliding-Window-and-Token-Bucket-protocol is implemented using C++ in Network Simulator Software
+# Sliding-Window-and-Token-Bucket-protocol is implemented in Network Simulator Software via C++ Programming
